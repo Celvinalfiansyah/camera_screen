@@ -7,11 +7,13 @@ Camera
 # Kelas : 2D
 
 ![screenshoot praktikum_screen](assets/gambar1.png)
-1. Awal Tampilan Seperti Ini jika code sudah selesai.
+
 ![screenshoot praktikum_screen](assets/gambar2.png)
-2. Pencet Icon untuk foto
+
 ![screenshoot praktikum_screen](assets/gambar3.png)
-Gambar akan muncul pada hasil_picture (bebas ingin foto kapan saja)
+1. Awal Tampilan Seperti Ini jika code sudah selesai.
+2. Pencet Icon untuk foto
+3. Gambar akan muncul pada hasil_picture (bebas ingin foto kapan saja)
 
 
 This project is a starting point for a Flutter application.
